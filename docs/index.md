@@ -163,3 +163,16 @@
 ![tanxi-xiazai-cundang.png](tanxi-xiazai-cundang.png)
 
 `上传存档`：只是上传选择的文件到游戏的工作目录`C:\AshesServer`, 替换存档的操作可以见上方的**替换存档**步骤
+
+
+##  常见问题
+
+### 部署服务时出现部署失败
+
+![tanxi-bushu-shibai.png](tanxi-bushu-shibai.png)
+这种情况一般是网络波动导致更新游戏服务器时间过长导致部署时间超时
+
+解决方案：
+点击`重新部署`，然后选择`使用原参数部署`，点击确定就可以继续部署。通常情况下这个问题可以通过这种再次部署的操作而得到解决。
+
+![tanxi-jixu-bushu.png](tanxi-jixu-bushu.png)
